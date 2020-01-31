@@ -62,4 +62,10 @@ try:
              break
     choice = input()
 except:
-    print('Oops, something goes wrong')
+    print('Oops, something goes wrong'
+
+          banana='1'
+        if banana="hi"
+        print('hi')
+        else:
+        print('hello')
